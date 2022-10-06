@@ -1,7 +1,7 @@
 ![Project Overview](project-preview.png)
 
 # DX-Column-Design
-A simple responsive beginner project, A complete guide about how to build this project from scratch is covered in this [Youtube video](https://youtu.be/jz4SY1XyxlI)
+A simple beginners responsive landing page project, A complete guide about how to build this project from scratch is covered in this [Youtube video](https://youtu.be/jz4SY1XyxlI)
 
 ## Preview application
 - https://dx1columndesign.netlify.app
