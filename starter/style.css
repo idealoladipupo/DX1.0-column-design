@@ -89,3 +89,32 @@ body{
     .secondsection-leftdiv p {
         margin-top: 15px;
     }
+
+    /* ============third section starts here */
+    
+    .thirdsection {
+        display: flex;
+        justify-content: center;
+        padding: 50px 0;
+        background: var(--gray-color);
+        
+    }
+    .thirdsection-leftdiv{
+        width: 340px;
+        height: 460px;
+        background: url("./images/image3.jpg");
+        background-size: cover;
+        
+    }
+    .thirdsection-rightdiv{
+        width: 340px;
+        height: 460px;
+        padding: 30px 20px;
+        background: var(--main-color)
+
+    }
+
+    .thirdsection-rightdiv .p2 {
+        margin: 15px 0;
+    }
+        

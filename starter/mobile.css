@@ -34,8 +34,17 @@
     
 }
 
+/* =========THIRDSECTION MOBILE STARTS HERE=============== */
 
+.thirdsection {
+    flex-direction: column-reverse;
+    align-items: center;
 }
-  
 
-    
+.thirdsection-rightdiv {
+    margin-bottom: 30px;
+}
+}
+
+
+
