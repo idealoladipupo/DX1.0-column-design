@@ -1,26 +1,36 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 
 .firstsection{
-    border: 2px solid black;
     height: 460px;
     display: flex;
 
 }
 
+body{
+    font-family: 'Inter', sans-serif;
+}
 .firstsection-leftdiv {
-    border: 2px solid tomato;
     height:100%;
     width: 50%;
+    padding: 20px;
+    background: var(--gray-color);
    
-
+    
 }
 
+.logotext {
+    margin: 0 0 20px 0;
+}
+
+.logotext span{
+    color: var(--main-color)
+}
 .firstsection-rightdiv {
-    border: 2px solid skyblue;
     height:100%;
     width: 50%;
     /* background: linear-gradient(to left top, rgba(255, 99, 71, 0.3), rgba(255, 133, 34, 0.3), rgba(241, 169, 0, 0.3), rgba(213, 203, 0, 0.3), rgba(168, 235, 18)), url("./images/image1.jpg");  basic explanation of gradient using genrerator */
@@ -29,11 +39,26 @@
     background-size: cover;
     background-position: bottom left;
 
-    /* background: url("./images/dots.png"); */
-    /* background-repeat: no-repeat; */
-    /* background-position: bottom right; */
-    /* background-size: contain; */
+    }
+.link-holder{
+     display: flex;
+    padding:20px;
+    color:var( --white-color);
+    justify-content: space-evenly;
+}
 
 
+.line {
+    background: var(--main-color);
+    height: 16px;
+    width: 224px;
+}
+
+.firstsection-leftdiv p{
+    margin: 15px 0;
+}
+
+
+    
 }
 

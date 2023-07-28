@@ -1,0 +1,28 @@
+@media screen and (max-width:600px){
+    .firstsection {
+        height: 520px;
+      
+    }
+    .firstsection-leftdiv {
+    width: 60%;
+}
+.firstsection-rightdiv {
+    width: 40%;
+}
+.heading{
+    font-size: 25px;
+}
+.line {
+    width: 200px;
+    
+}
+.link-holder {
+     flex-direction: column;
+}
+.link-holder h4{
+    margin: 0 0 2px 0;
+}
+}
+  
+
+    
