@@ -13,14 +13,14 @@
     font-size: 25px;
 }
 .line {
-    width: 200px;
+    width: 180px;
     
 }
 .link-holder {
      flex-direction: column;
 }
 .link-holder h4{
-    margin: 0 0 2px 0;
+    margin: 0 0 20px 0;
 }
 }
   
