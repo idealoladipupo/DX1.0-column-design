@@ -44,6 +44,15 @@
 .thirdsection-rightdiv {
     margin-bottom: 30px;
 }
+/* =========FOOTER  MOBILE STARTS HERE=============== */
+footer {
+    flex-direction: column;
+    text-align: center;
+}
+.icon-holder i{
+    margin-top: 10px;
+    
+}
 }
 
 

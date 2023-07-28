@@ -117,4 +117,25 @@ body{
     .thirdsection-rightdiv .p2 {
         margin: 15px 0;
     }
+        /* ============================ */
+    /* footer section starts here */
+
+    footer {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 20px 0;
+        background: var(--main-color);
+        color: var(--white-color)
+
+
+
+    }
+    
+    .icon-holder {
+        border: 2px solid tomato;
         
+
+    }
+    .icon-holder i {
+        margin: 0 5px;
+    }
