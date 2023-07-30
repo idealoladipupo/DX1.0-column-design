@@ -146,4 +146,9 @@ body{
     }
     .icon-holder i {
         margin: 0 5px;
+        border: 1.3px solid white;
+        border-radius: 50%;
+        padding: 4px;
+
+
     }
